@@ -54,6 +54,5 @@ void str_client(FILE* fp, int socketfd)
 int main(int argc, char* argv[])
 {
     
-
     return 0;
 } 
